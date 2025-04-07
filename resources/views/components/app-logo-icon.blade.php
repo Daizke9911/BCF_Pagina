@@ -1,0 +1,1 @@
+<img src="{{asset('files/logo_bcf.png')}}" alt="Banco Central de Fritolandia">
