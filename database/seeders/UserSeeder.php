@@ -4,13 +4,11 @@ namespace Database\Seeders;
 
 use App\Models\Cuenta;
 use App\Models\User;
-use App\Traits\HistorialMigrateTraits;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 
 class UserSeeder extends Seeder
 {
-    use HistorialMigrateTraits;
     /**
      * Run the database seeds.
      */
